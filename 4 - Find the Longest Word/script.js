@@ -16,7 +16,7 @@ function returnString(value){
         }
     }
 
-    spanResponse.innerText = "A maior palavra é: " + biggerWord
+    spanResponse.innerText = "O comprimento da maior: " + biggerWord.length;
 
 }
 
